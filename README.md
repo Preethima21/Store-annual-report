@@ -33,6 +33,8 @@ Slicers for Interactive Analysis:
 Conclusion:
 The store data annual report encapsulates valuable insights derived from comprehensive data analysis, providing stakeholders with actionable information to optimize marketing strategies, inventory management, and resource allocation. By understanding consumer behavior, regional trends, and channel performance, businesses can make informed decisions to drive growth and profitability in the competitive retail landscape.
 
+Credits: My Hack Station
+
 
 
 
